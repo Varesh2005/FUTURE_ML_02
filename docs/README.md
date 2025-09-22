@@ -92,23 +92,29 @@ FUTURE_ML_02/
 
 ---
 
-🚀 How to Run
-Clone the repository:
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Varesh2005/FUTURE_ML_02.git
+2. Navigate into the project folder:
+   cd FUTURE_ML_02/code
 
-git clone https://github.com/Varesh2005/FUTURE_ML_02.git
-Navigate into the project folder: cd FUTURE_ML_02/code
 
-Install dependencies: pip install -r requirements.txt
+3. Install dependencies:
+   pip install -r requirements.txt
 
-Run the churn modeling script: python churn_model.py
 
-The churn predictions will be exported as churn_predictions.csv and churn_predictions_full.csv. Open the Power BI file (Task2_Dashboard.pbix) to explore the dashboard.
+4. Run the churn modeling script:
+   python churn_model.py
+
+
+5. The churn predictions will be exported as churn_predictions.csv and churn_predictions_full.csv. Open the Power BI file     
+   (Task2_Dashboard.pbix) to explore the dashboard.
 
 📌 Internship Details
 
-Internship Program : Future Interns – Machine Learning Track
+- **Internship Program** : Future Interns – Machine Learning Track
 
-Candidate ID (CIN) : FIT/AUG25/ML2279
+- **Candidate ID (CIN)** : FIT/AUG25/ML2279
 
-Task : Churn Prediction System (Task 2)
-
+- **Task** : Churn Prediction System (Task 2)
